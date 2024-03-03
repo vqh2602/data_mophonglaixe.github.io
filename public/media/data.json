@@ -1,0 +1,842 @@
+[
+    {
+      "hinhanh": "1",
+      "huongdan": "",
+      "ttime": "21.3",
+      "time2": "13.140",
+      "time1": "10.427"
+    },
+    {
+      "hinhanh": "2",
+      "huongdan": "",
+      "ttime": "33.8",
+      "time2": "20.133",
+      "time1": "17.915"
+    },
+    {
+      "hinhanh": "3",
+      "huongdan": "",
+      "ttime": "28.5",
+      "time2": "18.040",
+      "time1": "15.076"
+    },
+    {
+      "hinhanh": "4",
+      "huongdan": "",
+      "ttime": "28.8",
+      "time2": "15.289",
+      "time1": "10.527"
+    },
+    {
+      "hinhanh": "5",
+      "huongdan": "",
+      "ttime": "27.9",
+      "time2": "16.473",
+      "time1": "12.397"
+    },
+    {
+      "hinhanh": "6",
+      "huongdan": "",
+      "ttime": "25.3",
+      "time2": "16.443",
+      "time1": "13.171"
+    },
+    {
+      "hinhanh": "7",
+      "huongdan": "",
+      "ttime": "27.5",
+      "time2": "14.986",
+      "time1": "10.536"
+    },
+    {
+      "hinhanh": "8",
+      "huongdan": "",
+      "ttime": "28.6",
+      "time2": "13.450",
+      "time1": "10.506"
+    },
+    {
+      "hinhanh": "9",
+      "huongdan": "",
+      "ttime": "17.8",
+      "time2": "10.980",
+      "time1": "8.241"
+    },
+    {
+      "hinhanh": "10",
+      "huongdan": "",
+      "ttime": "25.7",
+      "time2": "16.232",
+      "time1": "11.883"
+    },
+    {
+      "hinhanh": "11",
+      "huongdan": "",
+      "ttime": "27.0",
+      "time2": "17.720",
+      "time1": "10.182"
+    },
+    {
+      "hinhanh": "12",
+      "huongdan": "",
+      "ttime": "31.3",
+      "time2": "15.710",
+      "time1": "13.393"
+    },
+    {
+      "hinhanh": "13",
+      "huongdan": "",
+      "ttime": "24.5",
+      "time2": "13.637",
+      "time1": "11.291"
+    },
+    {
+      "hinhanh": "14",
+      "huongdan": "",
+      "ttime": "28.5",
+      "time2": "17.787",
+      "time1": "14.045"
+    },
+    {
+      "hinhanh": "15",
+      "huongdan": "",
+      "ttime": "27.6",
+      "time2": "15.613",
+      "time1": "13.056"
+    },
+    {
+      "hinhanh": "16",
+      "huongdan": "",
+      "ttime": "24.7",
+      "time2": "13.855",
+      "time1": "11.012"
+    },
+    {
+      "hinhanh": "17",
+      "huongdan": "",
+      "ttime": "23.3",
+      "time2": "10.798",
+      "time1": "8.314"
+    },
+    {
+      "hinhanh": "18",
+      "huongdan": "",
+      "ttime": "25.3",
+      "time2": "14.665",
+      "time1": "11.322"
+    },
+    {
+      "hinhanh": "19",
+      "huongdan": "",
+      "ttime": "23.3",
+      "time2": "15.309",
+      "time1": "12.455"
+    },
+    {
+      "hinhanh": "20",
+      "huongdan": "",
+      "ttime": "31.6",
+      "time2": "22.084",
+      "time1": "18.559"
+    },
+    {
+      "hinhanh": "21",
+      "huongdan": "",
+      "ttime": "33.4",
+      "time2": "16.740",
+      "time1": "13.387"
+    },
+    {
+      "hinhanh": "22",
+      "huongdan": "",
+      "ttime": "26.9",
+      "time2": "16.183",
+      "time1": "13.150"
+    },
+    {
+      "hinhanh": "23",
+      "huongdan": "",
+      "ttime": "26.6",
+      "time2": "17.852",
+      "time1": "15.058"
+    },
+    {
+      "hinhanh": "24",
+      "huongdan": "",
+      "ttime": "28.4",
+      "time2": "16.604",
+      "time1": "13.673"
+    },
+    {
+      "hinhanh": "25",
+      "huongdan": "",
+      "ttime": "38.9",
+      "time2": "16.869",
+      "time1": "10.682"
+    },
+    {
+      "hinhanh": "26",
+      "huongdan": "",
+      "ttime": "37.6",
+      "time2": "17.440",
+      "time1": "12.723"
+    },
+    {
+      "hinhanh": "27",
+      "huongdan": "",
+      "ttime": "29.2",
+      "time2": "17.326",
+      "time1": "14.349"
+    },
+    {
+      "hinhanh": "28",
+      "huongdan": "",
+      "ttime": "30.3",
+      "time2": "15.705",
+      "time1": "12.106"
+    },
+    {
+      "hinhanh": "29",
+      "huongdan": "",
+      "ttime": "28.2",
+      "time2": "15.359",
+      "time1": "11.878"
+    },
+    {
+      "hinhanh": "30",
+      "huongdan": "",
+      "ttime": "31.4",
+      "time2": "15.216",
+      "time1": "10.688"
+    },
+    {
+      "hinhanh": "31",
+      "huongdan": "",
+      "ttime": "31.9",
+      "time2": "14.731",
+      "time1": "9.665"
+    },
+    {
+      "hinhanh": "32",
+      "huongdan": "",
+      "ttime": "23.7",
+      "time2": "15.577",
+      "time1": "11.660"
+    },
+    {
+      "hinhanh": "33",
+      "huongdan": "",
+      "ttime": "27.5",
+      "time2": "15.655",
+      "time1": "12.517"
+    },
+    {
+      "hinhanh": "34",
+      "huongdan": "",
+      "ttime": "21.2",
+      "time2": "12.784",
+      "time1": "8.519"
+    },
+    {
+      "hinhanh": "35",
+      "huongdan": "",
+      "ttime": "21.8",
+      "time2": "9.574",
+      "time1": "6.345"
+    },
+    {
+      "hinhanh": "36",
+      "huongdan": "",
+      "ttime": "28.1",
+      "time2": "19.100",
+      "time1": "16.705"
+    },
+    {
+      "hinhanh": "37",
+      "huongdan": "",
+      "ttime": "29.7",
+      "time2": "20.493",
+      "time1": "17.655"
+    },
+    {
+      "hinhanh": "38",
+      "huongdan": "",
+      "ttime": "26.9",
+      "time2": "14.469",
+      "time1": "11.340"
+    },
+    {
+      "hinhanh": "39",
+      "huongdan": "",
+      "ttime": "26.3",
+      "time2": "18.149",
+      "time1": "15.049"
+    },
+    {
+      "hinhanh": "40",
+      "huongdan": "",
+      "ttime": "28.3",
+      "time2": "13.485",
+      "time1": "9.594"
+    },
+    {
+      "hinhanh": "41",
+      "huongdan": "",
+      "ttime": "27.6",
+      "time2": "14.602",
+      "time1": "12.817"
+    },
+    {
+      "hinhanh": "42",
+      "huongdan": "",
+      "ttime": "26.3",
+      "time2": "13.435",
+      "time1": "10.430"
+    },
+    {
+      "hinhanh": "43",
+      "huongdan": "",
+      "ttime": "29.8",
+      "time2": "13.576",
+      "time1": "9.697"
+    },
+    {
+      "hinhanh": "44",
+      "huongdan": "",
+      "ttime": "21.3",
+      "time2": "12.063",
+      "time1": "8.012"
+    },
+    {
+      "hinhanh": "45",
+      "huongdan": "",
+      "ttime": "23.6",
+      "time2": "15.889",
+      "time1": "13.000"
+    },
+    {
+      "hinhanh": "46",
+      "huongdan": "",
+      "ttime": "31.3",
+      "time2": "23.383",
+      "time1": "20.162"
+    },
+    {
+      "hinhanh": "47",
+      "huongdan": "",
+      "ttime": "29.8",
+      "time2": "21.293",
+      "time1": "17.942"
+    },
+    {
+      "hinhanh": "48",
+      "huongdan": "",
+      "ttime": "27.7",
+      "time2": "10.713",
+      "time1": "8.200"
+    },
+    {
+      "hinhanh": "49",
+      "huongdan": "",
+      "ttime": "27.6",
+      "time2": "14.568",
+      "time1": "10.259"
+    },
+    {
+      "hinhanh": "50",
+      "huongdan": "",
+      "ttime": "29.5",
+      "time2": "16.281",
+      "time1": "11.965"
+    },
+    {
+      "hinhanh": "51",
+      "huongdan": "",
+      "ttime": "30.3",
+      "time2": "17.263",
+      "time1": "12.304"
+    },
+    {
+      "hinhanh": "52",
+      "huongdan": "",
+      "ttime": "29.4",
+      "time2": "19.570",
+      "time1": "15.991"
+    },
+    {
+      "hinhanh": "53",
+      "huongdan": "",
+      "ttime": "29.2",
+      "time2": "20.354",
+      "time1": "16.526"
+    },
+    {
+      "hinhanh": "54",
+      "huongdan": "",
+      "ttime": "25.6",
+      "time2": "16.879",
+      "time1": "12.677"
+    },
+    {
+      "hinhanh": "55",
+      "huongdan": "",
+      "ttime": "30.2",
+      "time2": "14.641",
+      "time1": "10.741"
+    },
+    {
+      "hinhanh": "56",
+      "huongdan": "",
+      "ttime": "21.7",
+      "time2": "13.374",
+      "time1": "10.695"
+    },
+    {
+      "hinhanh": "57",
+      "huongdan": "",
+      "ttime": "54.0",
+      "time2": "30.813",
+      "time1": "23.932"
+    },
+    {
+      "hinhanh": "58",
+      "huongdan": "",
+      "ttime": "41.2",
+      "time2": "22.433",
+      "time1": "17.684"
+    },
+    {
+      "hinhanh": "59",
+      "huongdan": "",
+      "ttime": "33.1",
+      "time2": "23.469",
+      "time1": "20.280"
+    },
+    {
+      "hinhanh": "60",
+      "huongdan": "",
+      "ttime": "28.1",
+      "time2": "14.511",
+      "time1": "10.725"
+    },
+    {
+      "hinhanh": "61",
+      "huongdan": "",
+      "ttime": "31.7",
+      "time2": "24.832",
+      "time1": "20.020"
+    },
+    {
+      "hinhanh": "62",
+      "huongdan": "",
+      "ttime": "31.2",
+      "time2": "23.219",
+      "time1": "19.125"
+    },
+    {
+      "hinhanh": "63",
+      "huongdan": "",
+      "ttime": "24.5",
+      "time2": "11.822",
+      "time1": "7.767"
+    },
+    {
+      "hinhanh": "64",
+      "huongdan": "",
+      "ttime": "27.5",
+      "time2": "17.302",
+      "time1": "13.314"
+    },
+    {
+      "hinhanh": "65",
+      "huongdan": "",
+      "ttime": "37.2",
+      "time2": "25.019",
+      "time1": "20.217"
+    },
+    {
+      "hinhanh": "66",
+      "huongdan": "",
+      "ttime": "22.4",
+      "time2": "16.360",
+      "time1": "12.773"
+    },
+    {
+      "hinhanh": "67",
+      "huongdan": "",
+      "ttime": "33.3",
+      "time2": "20.187",
+      "time1": "16.069"
+    },
+    {
+      "hinhanh": "68",
+      "huongdan": "",
+      "ttime": "27.2",
+      "time2": "17.395",
+      "time1": "14.211"
+    },
+    {
+      "hinhanh": "69",
+      "huongdan": "",
+      "ttime": "31.9",
+      "time2": "20.174",
+      "time1": "17.995"
+    },
+    {
+      "hinhanh": "70",
+      "huongdan": "",
+      "ttime": "52.4",
+      "time2": "35.543",
+      "time1": "30.931"
+    },
+    {
+      "hinhanh": "71",
+      "huongdan": "",
+      "ttime": "32.7",
+      "time2": "19.720",
+      "time1": "15.495"
+    },
+    {
+      "hinhanh": "72",
+      "huongdan": "",
+      "ttime": "30.8",
+      "time2": "22.627",
+      "time1": "18.188"
+    },
+    {
+      "hinhanh": "73",
+      "huongdan": "",
+      "ttime": "31.3",
+      "time2": "21.142",
+      "time1": "18.298"
+    },
+    {
+      "hinhanh": "74",
+      "huongdan": "",
+      "ttime": "32.2",
+      "time2": "18.538",
+      "time1": "14.287"
+    },
+    {
+      "hinhanh": "75",
+      "huongdan": "",
+      "ttime": "26.8",
+      "time2": "11.283",
+      "time1": "8.292"
+    },
+    {
+      "hinhanh": "76",
+      "huongdan": "",
+      "ttime": "26.8",
+      "time2": "13.092",
+      "time1": "9.649"
+    },
+    {
+      "hinhanh": "77",
+      "huongdan": "",
+      "ttime": "26.2",
+      "time2": "13.249",
+      "time1": "9.477"
+    },
+    {
+      "hinhanh": "78",
+      "huongdan": "",
+      "ttime": "24.9",
+      "time2": "17.475",
+      "time1": "14.652"
+    },
+    {
+      "hinhanh": "79",
+      "huongdan": "",
+      "ttime": "28.0",
+      "time2": "15.486",
+      "time1": "12.756"
+    },
+    {
+      "hinhanh": "80",
+      "huongdan": "",
+      "ttime": "20.8",
+      "time2": "12.381",
+      "time1": "9.718"
+    },
+    {
+      "hinhanh": "81",
+      "huongdan": "",
+      "ttime": "28.2",
+      "time2": "21.641",
+      "time1": "18.472"
+    },
+    {
+      "hinhanh": "82",
+      "huongdan": "",
+      "ttime": "29.5",
+      "time2": "14.759",
+      "time1": "9.752"
+    },
+    {
+      "hinhanh": "83",
+      "huongdan": "",
+      "ttime": "24.7",
+      "time2": "13.462",
+      "time1": "10.643"
+    },
+    {
+      "hinhanh": "84",
+      "huongdan": "",
+      "ttime": "25.8",
+      "time2": "16.292",
+      "time1": "12.615"
+    },
+    {
+      "hinhanh": "85",
+      "huongdan": "",
+      "ttime": "33.7",
+      "time2": "21.733",
+      "time1": "19.464"
+    },
+    {
+      "hinhanh": "86",
+      "huongdan": "",
+      "ttime": "25.1",
+      "time2": "11.841",
+      "time1": "7.640"
+    },
+    {
+      "hinhanh": "87",
+      "huongdan": "",
+      "ttime": "28.5",
+      "time2": "11.390",
+      "time1": "6.690"
+    },
+    {
+      "hinhanh": "88",
+      "huongdan": "",
+      "ttime": "25.6",
+      "time2": "17.246",
+      "time1": "14.610"
+    },
+    {
+      "hinhanh": "89",
+      "huongdan": "",
+      "ttime": "24.2",
+      "time2": "15.396",
+      "time1": "11.811"
+    },
+    {
+      "hinhanh": "90",
+      "huongdan": "",
+      "ttime": "23.3",
+      "time2": "13.828",
+      "time1": "9.905"
+    },
+    {
+      "hinhanh": "91",
+      "huongdan": "",
+      "ttime": "25.4",
+      "time2": "13.490",
+      "time1": "9.045"
+    },
+    {
+      "hinhanh": "92",
+      "huongdan": "",
+      "ttime": "19.5",
+      "time2": "11.663",
+      "time1": "8.398"
+    },
+    {
+      "hinhanh": "93",
+      "huongdan": "",
+      "ttime": "31.2",
+      "time2": "19.608",
+      "time1": "16.479"
+    },
+    {
+      "hinhanh": "94",
+      "huongdan": "",
+      "ttime": "35.3",
+      "time2": "24.516",
+      "time1": "20.488"
+    },
+    {
+      "hinhanh": "95",
+      "huongdan": "",
+      "ttime": "22.1",
+      "time2": "13.469",
+      "time1": "8.714"
+    },
+    {
+      "hinhanh": "96",
+      "huongdan": "",
+      "ttime": "27.6",
+      "time2": "23.937",
+      "time1": "20.636"
+    },
+    {
+      "hinhanh": "97",
+      "huongdan": "",
+      "ttime": "42.3",
+      "time2": "25.014",
+      "time1": "22.281"
+    },
+    {
+      "hinhanh": "98",
+      "huongdan": "",
+      "ttime": "33.3",
+      "time2": "20.592",
+      "time1": "16.846"
+    },
+    {
+      "hinhanh": "99",
+      "huongdan": "",
+      "ttime": "32.4",
+      "time2": "22.530",
+      "time1": "19.499"
+    },
+    {
+      "hinhanh": "100",
+      "huongdan": "",
+      "ttime": "24.8",
+      "time2": "14.246",
+      "time1": "11.219"
+    },
+    {
+      "hinhanh": "101",
+      "huongdan": "",
+      "ttime": "30.6",
+      "time2": "17.261",
+      "time1": "14.945"
+    },
+    {
+      "hinhanh": "102",
+      "huongdan": "",
+      "ttime": "25.1",
+      "time2": "18.844",
+      "time1": "15.270"
+    },
+    {
+      "hinhanh": "103",
+      "huongdan": "",
+      "ttime": "30.6",
+      "time2": "22.602",
+      "time1": "19.527"
+    },
+    {
+      "hinhanh": "104",
+      "huongdan": "",
+      "ttime": "27.4",
+      "time2": "24.791",
+      "time1": "22.300"
+    },
+    {
+      "hinhanh": "105",
+      "huongdan": "",
+      "ttime": "24.9",
+      "time2": "16.129",
+      "time1": "13.788"
+    },
+    {
+      "hinhanh": "106",
+      "huongdan": "",
+      "ttime": "35.0",
+      "time2": "22.644",
+      "time1": "19.411"
+    },
+    {
+      "hinhanh": "107",
+      "huongdan": "",
+      "ttime": "35.9",
+      "time2": "17.940",
+      "time1": "15.051"
+    },
+    {
+      "hinhanh": "108",
+      "huongdan": "",
+      "ttime": "31.1",
+      "time2": "25.241",
+      "time1": "22.995"
+    },
+    {
+      "hinhanh": "109",
+      "huongdan": "",
+      "ttime": "25.2",
+      "time2": "15.490",
+      "time1": "12.362"
+    },
+    {
+      "hinhanh": "110",
+      "huongdan": "",
+      "ttime": "23.6",
+      "time2": "15.249",
+      "time1": "12.205"
+    },
+    {
+      "hinhanh": "111",
+      "huongdan": "",
+      "ttime": "19.1",
+      "time2": "14.685",
+      "time1": "11.565"
+    },
+    {
+      "hinhanh": "112",
+      "huongdan": "",
+      "ttime": "21.4",
+      "time2": "11.187",
+      "time1": "7.257"
+    },
+    {
+      "hinhanh": "113",
+      "huongdan": "",
+      "ttime": "24.0",
+      "time2": "19.934",
+      "time1": "16.891"
+    },
+    {
+      "hinhanh": "114",
+      "huongdan": "",
+      "ttime": "31.3",
+      "time2": "16.330",
+      "time1": "12.154"
+    },
+    {
+      "hinhanh": "115",
+      "huongdan": "",
+      "ttime": "27.6",
+      "time2": "15.892",
+      "time1": "11.997"
+    },
+    {
+      "hinhanh": "116",
+      "huongdan": "",
+      "ttime": "24.4",
+      "time2": "15.126",
+      "time1": "10.560"
+    },
+    {
+      "hinhanh": "117",
+      "huongdan": "",
+      "ttime": "21.9",
+      "time2": "13.396",
+      "time1": "10.937"
+    },
+    {
+      "hinhanh": "118",
+      "huongdan": "",
+      "ttime": "24.1",
+      "time2": "15.473",
+      "time1": "10.619"
+    },
+    {
+      "hinhanh": "119",
+      "huongdan": "",
+      "ttime": "30.1",
+      "time2": "14.562",
+      "time1": "11.921"
+    },
+    {
+      "hinhanh": "120",
+      "huongdan": "",
+      "ttime": "34.4",
+      "time2": "16.389",
+      "time1": "13.733"
+    }
+  ]
