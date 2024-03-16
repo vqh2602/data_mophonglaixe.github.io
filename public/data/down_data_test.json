@@ -1,0 +1,32 @@
+{
+    "version_data": "1.0.0",
+    "date": "26/02/2024",
+    "version_app": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ],
+    "size": "1.1GB",
+    "link": [
+    {
+        "name": "one_test",
+        "url": "https://onedrive.live.com/download?resid=EEBC4A52660DBF6C%2150766&authkey=!AJdYTfIUhswGzs4"
+      },
+      {
+        "name": "one",
+        "url": "https://onedrive.live.com/download?resid=EEBC4A52660DBF6C%2150765&authkey=!AM5IDslbWEsiNwk"
+      },
+      {
+        "name": "box",
+        "url": "https://www.dropbox.com/scl/fi/ktrd3fi7s0pb9rlx6we1g/data.zip?rlkey=ptz2ytm4ig1rv8dxg74y2c316&dl=1"
+        
+      },
+      {
+        "name": "goog",
+        "url": "https://www.googleapis.com/drive/v3/files/1NZOrvhLEUo1BNRGRZgK39TGsjT9s5thL?alt=media&key=AIzaSyAZaQFwLTbQVKf8cSKcfwfu5cSmC4cLTfI"
+      }
+    ]
+  }
+  
